@@ -17,7 +17,7 @@ gem 'jquery-rails'
 gem 'font-awesome-sass', '~> 4.6', '>= 4.6.2'
 gem 'bootstrap-sass-extras', '~> 0.0.2'
 gem 'devise', '~> 4.2'
-gem 'simple_form', '~> 3.5'
+gem 'simple_form', '~> 5.0'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
